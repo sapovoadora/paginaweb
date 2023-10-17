@@ -5,3 +5,7 @@ background: #cccccc;
 P {
     text-align: center;
 }
+
+em strong {
+    color: #ff0000;
+}
